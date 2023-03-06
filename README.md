@@ -6,7 +6,7 @@
 
 ## Install & Setup
 
-Currently the plugin in non-functional, so you can't use it.
+Currently the plugin is non-functional, so you can't use it.
 
 ## License
 
